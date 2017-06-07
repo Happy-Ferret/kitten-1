@@ -4,7 +4,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 
-- Fix: Remove `color-error` label on `RadioButton` and `Checkbox` components.
 - Fix: Add `box-shadow: none` property on `TextInput`.
 - Feature: create `ResponsiveVideoIframeContainer` component for responsive video iframe.
   The component is used with embedly generated iframe.
